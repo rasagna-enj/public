@@ -28,7 +28,8 @@ class Board extends Component {
             <div>
                 <h1 style={textstyle}>Our Founder</h1>
                 <p style={textstyle}></p>
-                <p>I Dr. Amrutha Konijeti, the founder of ARKA DENTAL CARE, I extend a warm welcome to our valued patients and visitors.
+                <p>
+                  I<strong> Dr. Amrutha Konijeti, </strong>the founder of <strong>ARKA DENTAL CARE,</strong> I extend a warm welcome to our valued patients and visitors.
 
 At ARKA, our mission is to provide comprehensive and compassionate dental care that goes beyond the conventional approach. With a foundation built on extensive education, including BDS and MDS degrees, specializing in Micro Endodontics and Aesthetic Dentistry, I am dedicated to ensure that each individual receives the highest quality treatment tailored to their unique needs.</p>
             </div>
